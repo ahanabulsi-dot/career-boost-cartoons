@@ -20,3 +20,7 @@ Twelve looping, hand-drawn cartoon GIFs used as the image panels in a weekly new
 | 10_cook.gif | Pan flip |
 | 11_watch.gif | Popcorn catch in front of the TV |
 | 12_outro.gif | Wink and thumbs up |
+
+## Weekly renders
+
+The weekly emails use files named `<scene>__<stamp>.gif`, rendered by the newsletter's routine. The stamp text changes per issue, and new scenes are added when a story needs one. Existing files are reused rather than re-rendered.
